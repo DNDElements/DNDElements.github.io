@@ -32,14 +32,11 @@ a{
     float: left;
     text-align: center;
 }
-.p{
-    padding-top:2.5vh ;
-
-}
 #dropdown-block{
     display: none;
     position: absolute;
     background-color: rgb(190, 83, 83);
+    margin-top: 10vh;
 
 }
 .Elements{
